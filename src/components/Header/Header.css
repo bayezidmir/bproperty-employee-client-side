@@ -1,0 +1,9 @@
+nav {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+}
